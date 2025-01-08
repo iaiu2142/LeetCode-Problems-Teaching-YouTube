@@ -1,7 +1,9 @@
 # Leetcode-problems
-## On My YouTube Channel: [Learning with Ilsa](https://www.youtube.com/@learningwithilsa)
+## On My YouTube Channel: [Learning with Ilsa](https://www.youtube.com/@learningwithilsa) ![image](https://github.com/user-attachments/assets/cda672b7-9ae5-49f0-bf84-a63792c689e3)
 
-![ab67706f00000002863b311d4b787ed621f7e696](https://github.com/user-attachments/assets/4ca7ad0b-83b8-458c-b83a-6ccb445e7725)
+![ab67706f00000002863b311d4b787ed621f7e696](https://github.com/user-attachments/assets/4ca7ad0b-83b8-458c-b83a-6ccb445e7725) <be>
+
+
 
 Lecture 1: [Single Number](https://youtu.be/8LDruFtUP3E?si=6g-7isy3Ao9qp7WR&t=15) <br>
 Lecture 2: [Two Sum](https://youtu.be/XZLVH9do8IE?si=P5xDA4PL8pK8442Q&t=15) <br>
