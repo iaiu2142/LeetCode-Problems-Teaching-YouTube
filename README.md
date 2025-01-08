@@ -1,6 +1,6 @@
 # Leetcode-problems
 ## On My YouTube Channel: [Learning with Ilsa](https://www.youtube.com/@learningwithilsa) <br>
-![image](https://github.com/user-attachments/assets/cda672b7-9ae5-49f0-bf84-a63792c689e3)
+![image](https://github.com/user-attachments/assets/cda672b7-9ae5-49f0-bf84-a63792c689e3) <br>
 
 
 Lecture 1: [Single Number](https://youtu.be/8LDruFtUP3E?si=6g-7isy3Ao9qp7WR&t=15) <br>
