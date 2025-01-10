@@ -10,3 +10,4 @@ Lecture 4: [Length of a last word](https://youtu.be/jbFYoa903zY?si=xmX8i58T4KK6J
 Lecture 5: [Number of a Segment in a String](https://youtu.be/u_hILvoJ22I?si=b8GS1rGmQt06mBDb)<br>
 Lecture 6: [Power(x,n)](https://youtu.be/qE2W0bQbEcM?si=IloTViBDhbkTqqns) <br>
 
+
