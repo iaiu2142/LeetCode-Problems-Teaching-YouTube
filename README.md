@@ -9,5 +9,5 @@ Lecture 3: [Third Maximum Number](https://youtu.be/vkfzugxDA0A?si=09Ohfs32kWKgCQ
 Lecture 4: [Length of a last word](https://youtu.be/jbFYoa903zY?si=xmX8i58T4KK6JdFs) <br>
 Lecture 5: [Number of a Segment in a String](https://youtu.be/u_hILvoJ22I?si=b8GS1rGmQt06mBDb)<br>
 Lecture 6: [Power(x,n)](https://youtu.be/qE2W0bQbEcM?si=IloTViBDhbkTqqns) <br>
-Lecture 7: [Multiply Strings]
+Lecture 7: [Multiply Strings]()
 
