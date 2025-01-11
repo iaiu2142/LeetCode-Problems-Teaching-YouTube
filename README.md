@@ -10,5 +10,5 @@ Lecture 4: [Length of a last word](https://youtu.be/jbFYoa903zY?si=xmX8i58T4KK6J
 Lecture 5: [Number of a Segment in a String](https://youtu.be/u_hILvoJ22I?si=b8GS1rGmQt06mBDb)<br>
 Lecture 6: [Power(x,n)](https://youtu.be/qE2W0bQbEcM?si=IloTViBDhbkTqqns) <br>
 Lecture 7: [Multiply Strings](https://youtu.be/E_x5OfgtyBU?si=jEXu_ZMsB2X48_PZ)<br>
-Lecture 8: [Sort the people](https://youtu.be/u5Y6-_cJb_c?si=1veFi3_FFUVW86an)<>
+Lecture 8: [Sort the people](https://youtu.be/u5Y6-_cJb_c?si=1veFi3_FFUVW86an)<br>
 
