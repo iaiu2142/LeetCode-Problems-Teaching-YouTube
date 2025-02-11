@@ -13,4 +13,4 @@ Lecture 7: [Multiply Strings](https://youtu.be/E_x5OfgtyBU?si=jEXu_ZMsB2X48_PZ)<
 Lecture 8: [Sort the people](https://youtu.be/u5Y6-_cJb_c?si=1veFi3_FFUVW86an)<br>
 Lecture 9: [Fizz Buzz](https://youtu.be/LW2Fo6q-Ae8?si=8ZKlA-Z08UPSnDpn)<br>
 Lecture 10: [Vowels of all Substrings](https://youtu.be/q0qy3lJFlSg?si=LpIC4fqJMQpEB7pj)<br>
-L
+Lecture
